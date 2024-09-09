@@ -1,0 +1,20 @@
+{
+  "API_PASSWORD": "tUPl5nTuCesriw1qaOf!9",
+  "API_USERNAME": "operations@invenger.com",
+  "CP_CLIENTID": "",
+  "CP_IV_VALUE": "",
+  "CP_PASSPHRASE": "",
+  "DB_PASSWORD": "AQQbqY5pkRCjrt7Xn#R82",
+  "DB_USER_NAME": "ipasrntbkdbuser",
+  "FAXOUTAPI_PASSWORD": "",
+  "FAXOUTAPI_USERNAME": "",
+  "PASS_PHRASE": "",
+  "SFTP_PWD": "MSd2xR9a7wTyEpckJqN!9",
+  "SFTP_USER": "azsftpproduser",
+  "SUPPORT_API_PWD": "ipfax@18",
+  "SUPPORT_API_USER": "ipadmin",
+  "TWILIO_SID": "",
+  "TWILIO_TOKEN": "",
+  "VENDOR_DBPASS": "AQQbqY5pkRCjrt7Xn#R82",
+  "VENDOR_DBUSERNAME": "ipasrntbkdbuser"
+}
